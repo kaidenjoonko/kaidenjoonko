@@ -1,4 +1,4 @@
-# Hi, I'm Kaiden Ko! 
+# Hi, I'm Kaiden! 
 
 
 ## Skill Set:
