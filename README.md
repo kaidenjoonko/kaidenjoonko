@@ -14,7 +14,7 @@
  </td><td valign="top" width="25%">
         
 ### Languages
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/kaidenjoonko">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&perline=4" /> 
 </div>
@@ -23,7 +23,7 @@
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/kaidenjoonko">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,npm,docker,vscode,pytorch,angular&perline=4" /> 
 </div>
@@ -33,4 +33,10 @@
 
 
 ## Connect with me:
+<a href="https://github.com/kaidenjoonko">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=linkedin&perline=4" /> 
+</div>
+</a>
+
 
