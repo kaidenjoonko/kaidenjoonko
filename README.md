@@ -33,10 +33,16 @@
 
 
 ## Connect with me:
-<a href="https://github.com/kaidenjoonko">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=linkedin&perline=4" /> 
-</div>
+<div align="left">
+
+<a href="https://www.linkedin.com/in/kaidenjoonko/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="mailto:kjko@usc.edu" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
 
 
