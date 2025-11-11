@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kaiden Ko! 
 
-<!--
-**kaidenjoonko/kaidenjoonko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skill Set:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table><tr><td valign="top" width="25%">
+
+### Cloud  
+<a href="https://github.com/kaidenjoonko">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=aws,azure,vue,gcp,&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,docker,vscode,pytorch,angular&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+
+## Connect with me:
+
