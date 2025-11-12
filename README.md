@@ -1,4 +1,4 @@
-# Hi, I'm Kaiden! Aspiring Cloud Computing Engineer | Always Building, Breaking, and Shreeding the Slopes!
+# Hi, I'm Kaiden! Aspiring Cloud Engineer & Snowboard Enthusiast
 
 
 ## Skill Set:
