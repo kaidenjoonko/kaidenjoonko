@@ -8,7 +8,7 @@
 ### Cloud  
 <a href="https://github.com/kaidenjoonko">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=aws,azure,vue,gcp,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=aws,azure,gcp,&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -25,7 +25,7 @@
 ### Others
 <a href="https://github.com/kaidenjoonko">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,docker,vscode,pytorch,angular&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,docker,vscode,pytorch,angular,vue&perline=4" /> 
 </div>
 </a>
 </td>
