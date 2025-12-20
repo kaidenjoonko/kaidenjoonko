@@ -1,28 +1,14 @@
 # Hi, I’m Kaiden 👋
 
-I’m a Computer Engineering & Computer Science student at USC building **real-time systems, applied AI, and full-stack platforms**, with a strong interest in **AI-driven healthcare and human-in-the-loop systems**.
+I’m pursuing a B.S. **Computer Engineering & Computer Science with a minor in Computational Biology & Bioinformatics**, with a strong interest in **AI-driven healthcare, real-time systems, and human-in-the-loop technologies**.
 
-I’ve worked on:
-- Edge-first emergency coordination systems
-- Computer vision–driven medical guidance tools
-- Full-stack platforms serving large student communities
-- Applied AI systems for internal enterprise tooling
+I build systems at the intersection of **machine learning, computer vision, and software engineering**, with experience spanning applied AI research, edge computing, and real-time interactive applications.
 
 ---
 
 ## 🚀 What I’m Working On
-- **Vita Health** — real-time computer vision guidance for at-home medical procedures  
 - **FireLine** — edge-first emergency coordination platform for first responders  
-- **RateMyClub** — scalable full-stack platform indexing 700+ USC organizations  
-
----
-
-## 🧠 Technical Focus
-- Real-time systems & streaming data
-- Computer vision & applied machine learning
-- Full-stack web development
-- Human-in-the-loop AI systems
-- Edge and cloud-native architectures
+- **Vita Health** — real-time computer vision guidance for at-home medical procedures  
 
 ---
 
