@@ -1,8 +1,8 @@
 # Hi, I’m Kaiden 👋
 
-I’m pursuing a B.S. **Computer Engineering & Computer Science with a minor in Computational Biology & Bioinformatics @ USC**, with a strong interest in **AI-driven healthcare, real-time systems, and human-in-the-loop technologies**.
+I’m pursuing a B.S. **Computer Engineering & Computer Science with a minor in Computational Biology & Bioinformatics @ USC**, and I’m interested in building technology that supports healthcare and medical research.
 
-I build systems at the intersection of **machine learning, computer vision, and software engineering**, with experience spanning applied AI research, edge computing, and real-time interactive applications.
+I enjoy working with machine learning, edge computing, and computer vision, and I’m especially motivated by turning technical ideas into practical, health-focused tools that can meaningfully support researchers, clinicians, and everyday users.
 
 ---
 
