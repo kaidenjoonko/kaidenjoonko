@@ -3,7 +3,7 @@
 **Computer Engineering & Computer Science @ USC**  
 Building AI/ML systems for healthcare and mission-critical applications
 
-[LinkedIn](https://linkedin.com/in/kaidenjoonko) • [Email](mailto:kjko@usc.edu) • [Portfolio](http://ratemyclubusc.org)
+[LinkedIn](https://linkedin.com/in/kaidenjoonko) • [Email](mailto:kjko@usc.edu)
 
 ---
 
