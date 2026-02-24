@@ -1,119 +1,99 @@
-# Hi, I'm Kaiden 👋
+# Kaiden Joon Ko
 
-I'm a **Computer Engineering & Computer Science** student at **USC** (minor in Computational Biology & Bioinformatics), building **AI/ML systems for healthcare and real-world impact**.
+**Computer Engineering & Computer Science @ USC**  
+Building AI/ML systems for healthcare and mission-critical applications
 
-I specialize in **computer vision**, **multi-agent AI**, and **applied machine learning** — creating tools that bridge the gap between research and practical applications in medical diagnostics, emergency response, and everyday health.
-
-Currently exploring: **real-time ML inference**, **agentic AI systems**, and **biomedical signal processing**.
-
----
-
-## 🚀 Featured Projects
-
-### 🩺 [Vita Health](https://github.com/kaidenjoonko/vita)
-**Real-time computer vision for at-home medical guidance**  
-AI-powered system using **YOLOv8** object detection and **MediaPipe Pose** estimation to guide users through accurate blood pressure measurement via live webcam feedback.
-
-- Fine-tuned **YOLOv8n** on 500+ custom-labeled images achieving **97% mAP** for cuff detection
-- Built sequential feedback system using **vector projection mathematics** on pose landmarks
-- Delivers real-time spoken and visual corrections for posture, arm angle, and cuff positioning
-
-**Tech:** Python, YOLOv8, MediaPipe, OpenCV, PyTorch, Roboflow
+[LinkedIn](https://linkedin.com/in/kaidenjoonko) • [Email](mailto:kjko@usc.edu) • [Portfolio](http://ratemyclubusc.org)
 
 ---
 
-### 🚨 [FireLine](https://github.com/kaidenjoonko/fireline)
-**Edge-first emergency coordination with AI-ready architecture**  
-Cloud-free platform maintaining real-time situational awareness for first responders during disasters, with infrastructure for future ML-powered threat detection and resource optimization.
+## About
 
-- Guaranteed **exactly-once message delivery** with UUID-based acknowledgment and auto-retry
-- Built for **offline-first operation** during cellular infrastructure degradation
-- WebSocket-based real-time coordination with **edge computing** principles
+I'm a student researcher and engineer specializing in **computer vision**, **multi-agent AI systems**, and **biomedical machine learning**. My work focuses on translating AI research into practical tools for healthcare diagnostics, emergency response, and clinical applications.
 
-**Tech:** TypeScript, Node.js, WebSockets, Express, Edge Computing
+**Current focus:** Real-time ML inference, agentic AI architectures, biomedical signal processing
 
 ---
 
-### 🏫 [RateMyClub](http://ratemyclubusc.org)
-**Full-stack platform with ML-ready data pipeline**  
-Indexing **700+ USC organizations** with server-side search and filtering, serving **1,000+ students** per semester.
+## Projects
 
-**Tech:** React, Node.js, PostgreSQL, Supabase, Svelte
+### Vita Health
+**Computer vision system for at-home medical guidance**
 
----
+Real-time guidance for accurate blood pressure measurement using object detection and pose estimation. Trained custom YOLOv8 model achieving 97% mAP on medical device detection, integrated with MediaPipe for pose-based feedback.
 
-📌 *All repositories include detailed READMEs with architecture diagrams, demos, and technical documentation.*
+`Python` `YOLOv8` `MediaPipe` `PyTorch` `OpenCV`
 
----
-
-## 💼 Experience
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Chevron-005EB8?style=for-the-badge&logo=chevron&logoColor=white" height="22"/>
-  <b> Software Engineering Intern — Chevron</b>
-</p>
-
-- Architected a **multi-agent Generative AI system** using **Semantic Kernel** and **Agentic AI** to transform JSON datasets into modular Vue/Bootstrap UI components, accelerating dynamic UI development by **95%**
-- Improved system reliability by **40%** by designing a **cross-agent validation algorithm** that scored output consistency across AI agents, eliminating malformed component generation
-- Implemented a **real-time Angular dashboard** visualizing live **AI-generated component updates** and confidence/validation signals, enabling developers to approve UI changes in real time
-
-<p align="left">
-  <img src="https://img.shields.io/badge/USC-990000?style=for-the-badge&logo=usc&logoColor=white" height="22"/>
-  <b> Bioinformatics Research Intern — USC Institute for Technology and Medical Systems</b>
-</p>
-
-- Built **5 Python/Tkinter interfaces** that automated **EEG data collection** for **100+ patients**, reducing manual labeling time by **70%** and enabling real-time stress visualization for OCD and Anxiety Disorder research
-- Processed cortical EEG data using **epoching and baseline correction** to produce clean visualizations of stress-related neural activity for consistent data outputs
-- Designed EEG feature extraction scripts to isolate stress biomarkers, raising signal clarity by **15%** and improving downstream **ML model classification accuracy by 10%**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/UCLA-2774AE?style=for-the-badge&logo=ucla&logoColor=white" height="22"/>
-  <b> Machine Learning Research Intern — UCLA Biomedical AI Lab</b>
-</p>
-
-- Engineered an **OCR ML model** achieving **99% accuracy** using **TensorFlow and Keras** to extract vital retinal imaging statistics and biomarkers for **early retinal cancer diagnosis**
-- Developed an image preprocessing pipeline leveraging binarization and adaptive thresholding to prepare **400+ medical images**, enhancing OCR accuracy and robustness
+[View Repository →](https://github.com/kaidenjoonko/vita)
 
 ---
 
-## 🛠️ Tech Stack
+### FireLine
+**Emergency coordination platform with offline-first architecture**
 
-### AI/ML & Deep Learning
-![ML](https://skillicons.dev/icons?i=tensorflow,pytorch,python&perline=3)
+Edge computing platform enabling first responder communication during infrastructure failures. Implements guaranteed message delivery with UUID-based acknowledgment and automatic retry mechanisms.
 
-**Specialized:** YOLOv8, MediaPipe, Keras, Scikit-learn, OpenCV, Roboflow
+`TypeScript` `Node.js` `WebSockets` `Edge Computing`
 
-### Languages
-![Languages](https://skillicons.dev/icons?i=python,java,cpp,js,ts,golang&perline=6)
-
-### Frameworks & Tools
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,angular,vue,express,postgres&perline=6)
-
-### Cloud & DevOps
-![Tools](https://skillicons.dev/icons?i=git,docker,linux,azure,gcp,supabase&perline=6)
+[View Repository →](https://github.com/kaidenjoonko/fireline)
 
 ---
 
-## 🔬 Research Interests
+## Experience
 
-- **Computer Vision:** Object detection, pose estimation, real-time inference
-- **Biomedical AI:** Medical imaging analysis, EEG signal processing, clinical ML applications
-- **Agentic AI Systems:** Multi-agent architectures, LLM orchestration, validation frameworks
-- **Edge ML:** Optimizing models for resource-constrained environments
+**Software Engineering Intern** • Chevron Corporation  
+*May 2025 - July 2025*
+
+- Architected multi-agent generative AI system using Semantic Kernel, accelerating UI development by 95%
+- Designed cross-agent validation algorithm improving system reliability by 40%
+- Built real-time Angular dashboard for AI component preview and approval
+
+**Bioinformatics Research Intern** • USC Institute for Technology and Medical Systems  
+*August 2024 - May 2025*
+
+- Developed Python/Tkinter interfaces automating EEG data collection for 100+ patients
+- Engineered feature extraction pipeline improving ML classification accuracy by 10%
+- Reduced manual labeling time by 70% through automated biometric signal processing
+
+**Machine Learning Research Intern** • UCLA Biomedical AI Lab  
+*May 2024 - August 2024*
+
+- Built OCR model achieving 99% accuracy for retinal cancer biomarker extraction
+- Developed preprocessing pipeline for 400+ medical images using TensorFlow and Keras
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-![Kaiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaidenjoonko&show_icons=true&theme=radical&hide_border=true&count_private=true)
+**Machine Learning & AI**  
+TensorFlow • PyTorch • Keras • YOLOv8 • MediaPipe • Scikit-learn • OpenCV
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaidenjoonko&layout=compact&theme=radical&hide_border=true)
+**Languages**  
+Python • Java • C/C++ • JavaScript • TypeScript • SQL • Go
+
+**Web & Cloud**  
+React • Node.js • Angular • Vue.js • Express • PostgreSQL • Docker • Azure • GCP
+
+**Tools**  
+Git • Linux • Supabase • RESTful APIs • SpringBoot
 
 ---
 
-## 🌐 Connect With Me
+## Research Interests
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kaidenjoonko/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:kjko@usc.edu)
+- Computer vision for medical applications
+- Biomedical signal processing and ML
+- Multi-agent AI systems and LLM orchestration
+- Edge ML and real-time inference optimization
 
-**Always open to discussing:** AI/ML research opportunities, healthcare tech collaborations, and interesting technical problems.
+---
+
+## Recognition
+
+- **HackSC 2025 Winner**
+- **CURVE Research Fellowship** - USC
+- **Asian Pacific Alumni Association Scholar**
+
+---
+
+*Open to research collaborations and technical discussions in AI/ML and healthcare tech.*
