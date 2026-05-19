@@ -1,7 +1,6 @@
 # Kaiden Joon Ko
-
-**Computer Engineering & Computer Science @ USC**  
-Building AI/ML systems for healthcare and mission-critical applications
+**Computer Engineering & Computer Science @ USC**
+Building embedded systems and biomedical signal-processing tools.
 
 [LinkedIn](https://linkedin.com/in/kaidenjoonko) • [Email](mailto:kjko@usc.edu)
 
@@ -9,91 +8,108 @@ Building AI/ML systems for healthcare and mission-critical applications
 
 ## About
 
-I'm a student researcher and engineer specializing in **computer vision**, **multi-agent AI systems**, and **biomedical machine learning**. My work focuses on translating AI research into practical tools for healthcare diagnostics, emergency response, and clinical applications.
+I'm an engineer working at the intersection of **embedded firmware**, **biomedical signal processing**, and **real-time hardware-software systems**. My projects span bare-metal MCU firmware, FPGA/HDL design, and Linux-based IoT for medical applications.
 
-**Current focus:** Real-time ML inference, agentic AI architectures, biomedical signal processing
+**Current focus:** Bare-metal firmware, FPGA design, biomedical DSP, safety-critical embedded systems
 
 ---
 
 ## Projects
 
-### Vita Health
-**Computer vision system for at-home medical guidance**
+### ICU Watch Monitor
+**Real-time sepsis early-warning IoT system**
 
-Real-time guidance for accurate blood pressure measurement using object detection and pose estimation. Trained custom YOLOv8 model achieving 97% mAP on medical device detection, integrated with MediaPipe for pose-based feedback.
+Streams MIMIC-III physiological signals over MQTT pub/sub to a Raspberry Pi for continuous patient telemetry. Integrates GPIO hardware for bedside alerts when vital-sign thresholds are crossed, with topic-based routing on a Mosquitto broker.
 
-`Python` `YOLOv8` `MediaPipe` `PyTorch` `OpenCV`
-
-[View Repository →](https://github.com/kaidenjoonko/vita)
+`Python` `MQTT` `Raspberry Pi` `Flask` `SQLite` `GPIO`
+[View Repository →](https://github.com/kaidenjoonko/ICU_Watch_Monitor)
 
 ---
 
-### FireLine
-**Emergency coordination platform with offline-first architecture**
+### Vehicle Speed Trap
+**Bare-metal embedded firmware on AVR ATmega328P**
 
-Edge computing platform enabling first responder communication during infrastructure failures. Implements guaranteed message delivery with UUID-based acknowledgment and automatic retry mechanisms.
+Speed-measurement system timing object transits between dual opto-sensors, with LCD readout, EEPROM-persisted limits, and servo dial output. Coordinates three hardware timers across 5 ISRs and uses integer-only fixed-point math to avoid floating-point on the 8-bit MCU.
 
-`TypeScript` `Node.js` `WebSockets` `Edge Computing`
+`C` `AVR` `ATmega328P` `avr-gcc` `Make`
+[View Repository →](https://github.com/kaidenjoonko/speed-trap)
 
-[View Repository →](https://github.com/kaidenjoonko/fireline)
+---
+
+### FPGA Stroop Reaction Game
+**Real-time reaction-time measurement on Xilinx Nexys A7**
+
+Interactive Stroop-effect reaction-time game in Verilog, with VGA graphics output and millisecond-resolution timing. Implements two-flop reset synchronization for metastability prevention and integrates 8 Verilog modules across multiple clock domains.
+
+`Verilog` `Vivado` `QuestaSim` `Xilinx Nexys A7`
+[View Repository →](https://github.com/kaidenjoonko/fpga-stroop)
+
+---
+
+### Vita Health
+**Computer vision system for at-home medical guidance**
+
+Real-time guidance for accurate blood pressure measurement using object detection and pose estimation. Trained a custom YOLOv8 model achieving 97% mAP on medical device detection, integrated with MediaPipe for pose-based feedback.
+
+`Python` `YOLOv8` `MediaPipe` `PyTorch` `OpenCV`
+[View Repository →](https://github.com/kaidenjoonko/vita)
 
 ---
 
 ## Experience
 
-**Software Engineering Intern** • Chevron Corporation  
+**Bioinformatics Research Intern** • USC Institute for Technology and Medical Systems
+*August 2024 - Present*
+
+- Engineered a Python DSP pipeline for multi-channel EEG acquisition across 100+ patients, applying epoching, baseline correction, and feature extraction to isolate stress biomarkers
+- Designed feature extraction scripts targeting frequency-band power, improving downstream ML classification accuracy by 10%
+- Built 5 Python data acquisition interfaces automating EEG collection and labeling, reducing manual processing time by 70%
+
+**Generative AI Engineering Intern** • Chevron Corporation
 *May 2025 - July 2025*
 
-- Architected multi-agent generative AI system using Semantic Kernel, accelerating UI development by 95%
-- Designed cross-agent validation algorithm improving system reliability by 40%
-- Built real-time Angular dashboard for AI component preview and approval
+- Architected a multi-agent Generative AI system using Semantic Kernel to transform JSON datasets into modular Vue/Bootstrap UI components, accelerating dynamic UI development by 10x
+- Designed a cross-agent validation algorithm scoring output consistency, eliminating malformed generations by 90%
 
-**Bioinformatics Research Intern** • USC Institute for Technology and Medical Systems  
-*August 2024 - May 2025*
-
-- Developed Python/Tkinter interfaces automating EEG data collection for 100+ patients
-- Engineered feature extraction pipeline improving ML classification accuracy by 10%
-- Reduced manual labeling time by 70% through automated biometric signal processing
-
-**Machine Learning Research Intern** • UCLA Biomedical AI Lab  
+**Machine Learning Research Intern** • UCLA Biomedical Artificial Intelligence Research Lab
 *May 2024 - August 2024*
 
-- Built OCR model achieving 99% accuracy for retinal cancer biomarker extraction
-- Developed preprocessing pipeline for 400+ medical images using TensorFlow and Keras
+- Engineered an OCR pipeline (TensorFlow/Keras) achieving 99%+ accuracy on 400+ medical images to extract retinal biomarkers for early retinal cancer diagnosis
+- Built image preprocessing using adaptive thresholding and binarization to improve OCR robustness on low-contrast scans
 
 ---
 
 ## Technical Skills
 
-**Machine Learning & AI**  
-TensorFlow • PyTorch • Keras • YOLOv8 • MediaPipe • Scikit-learn • OpenCV
+**Embedded & Hardware**
+AVR (ATmega328P) • Xilinx FPGA (Nexys A7) • Raspberry Pi • ISRs • GPIO • SPI • I²C • UART • ADC • PWM • EEPROM • quadrature encoders • PCB bring-up
 
-**Languages**  
-Python • Java • C/C++ • JavaScript • TypeScript • SQL • Go
+**Languages**
+C • C++ • Python • Verilog • JavaScript/TypeScript
 
-**Web & Cloud**  
-React • Node.js • Angular • Vue.js • Express • PostgreSQL • Docker • Azure • GCP
+**Tools & Workflow**
+Vivado • QuestaSim • avr-gcc • Make • oscilloscopes/multimeters • Git • Linux
 
-**Tools**  
-Git • Linux • Supabase • RESTful APIs • SpringBoot
+**Signal Processing & ML**
+DSP (epoching, baseline correction, feature extraction) • PyTorch • TensorFlow • OpenCV
 
 ---
 
 ## Research Interests
 
-- Computer vision for medical applications
-- Biomedical signal processing and ML
-- Multi-agent AI systems and LLM orchestration
-- Edge ML and real-time inference optimization
+- Embedded firmware for medical devices and biomedical instrumentation
+- FPGA/HDL design and digital signal processing
+- Safety-critical and real-time systems
+- Neural signal acquisition and brain-computer interfaces
 
 ---
 
 ## Recognition
 
 - **HackSC 2025 Winner**
-- **CURVE Research Fellowship** - USC
+- **CURVE Research Fellowship** — USC
 - **Asian Pacific Alumni Association Scholar**
 
 ---
 
-*Open to research collaborations and technical discussions in AI/ML and healthcare tech.*
+*Open to research collaborations and technical discussions in embedded systems and medical device engineering.*
